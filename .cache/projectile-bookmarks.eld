@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/Vega/misfitcode/" "~/Vega/alisperdarkly/" "~/Vega/d-c/")
